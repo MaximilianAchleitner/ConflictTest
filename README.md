@@ -1,2 +1,2 @@
 # ConflictTest
-mo is dumm
+line1
